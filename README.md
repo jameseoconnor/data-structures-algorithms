@@ -10,7 +10,7 @@ Following the structure outlined in the ["Tech Interview Handbook"](https://tech
 - Valid Parentheses
 - Product of Array Except Self
 - Maximum Subarray
-- 3Sum
+- [~~3Sum~~](./problems/three_sums.py)
 - Merge Intervals
 - Group Anagrams
 - Maximum Product Subarray
