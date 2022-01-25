@@ -1,6 +1,6 @@
 # Tips for an interview
 
-- If there id a question, like the banana one, where you have to iterate over a list and find an optimal number - think math.ceil. So we were trying to find the optimal eating speed, but there was redundancy when the number of bananas didn't fit the hours exactly, so Kokomo was sitting there. TO calculate this redundancy, we used Math.ceil()
+- If there is a question, like the banana one, where you have to iterate over a list and find an optimal number - think math.ceil. So we were trying to find the optimal eating speed, but there was redundancy when the number of bananas didn't fit the hours exactly, so Kokomo was sitting there. TO calculate this redundancy, we used Math.ceil()
 - Math.ceil(3/5) = 1, Math.ceil(8/5)=2, Math.ceil(12/5)=3 and so on and so forth.
 
 ## Memoization

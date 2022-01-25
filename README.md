@@ -6,7 +6,7 @@ Following the structure outlined in the ["Tech Interview Handbook"](https://tech
 - [~~Two Sum~~](./problems/two_sums.py)
 - Contains Duplicate
 - Best Time to Buy and Sell Stock
-- Valid Anagram
+- [~~Valid Anagram~~](./problems/is_anagram.py)
 - Valid Parentheses
 - Product of Array Except Self
 - Maximum Subarray
