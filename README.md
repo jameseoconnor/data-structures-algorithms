@@ -3,14 +3,14 @@
 Following the structure outlined in the ["Tech Interview Handbook"](https://techinterviewhandbook.org/best-practice-questions/). 
 
 ## Week 1 - Sequences - 23rd Jan
-- [~~Two Sum~~](./problems/two_sums.py)
+- [~~Two Sum - (Completed on 23th Jan)~~](./problems/two_sums.py)
 - Contains Duplicate
 - Best Time to Buy and Sell Stock
-- [~~Valid Anagram~~](./problems/is_anagram.py)
-- Valid Parentheses
+- [~~Valid Anagram - (Completed on 24th Jan)~~](./problems/is_anagram.py)
+- [~~Valid Parentheses - (Completed on 25th Jan)~~](./problems/is_valid_parantheses.py)
 - Product of Array Except Self
 - Maximum Subarray
-- [~~3Sum~~](./problems/three_sums.py)
+- [~~3Sum - (Completed on 23th Jan)~~](./problems/three_sums.py)
 - Merge Intervals
 - Group Anagrams
 - Maximum Product Subarray
