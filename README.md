@@ -4,8 +4,8 @@ Following the structure outlined in the ["Tech Interview Handbook"](https://tech
 
 ## Week 1 - Sequences - 23rd Jan
 - [~~Two Sum - (Completed on 23th Jan)~~](./problems/two_sums.py)
-- Contains Duplicate
-- Best Time to Buy and Sell Stock
+- [~~Contains Duplicate - (Completed on 6th Feb)~~](./problems/contains_duplicate.py)
+- [~~Best Time to Buy and Sell Stock - (Completed on 6th Feb)~~](./problems/buy_sell_stock.py)
 - [~~Valid Anagram - (Completed on 24th Jan)~~](./problems/is_anagram.py)
 - [~~Valid Parentheses - (Completed on 25th Jan)~~](./problems/is_valid_parantheses.py)
 - Product of Array Except Self
