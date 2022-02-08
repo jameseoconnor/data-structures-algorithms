@@ -2,13 +2,13 @@
 
 Following the structure outlined in the ["Tech Interview Handbook"](https://techinterviewhandbook.org/best-practice-questions/). 
 
-## Week 1 - Sequences - 23rd Jan
+## Week 1 - Sequences
 - [~~Two Sum - (Completed on 23th Jan)~~](./problems/two_sums.py)
 - [~~Contains Duplicate - (Completed on 6th Feb)~~](./problems/contains_duplicate.py)
 - [~~Best Time to Buy and Sell Stock - (Completed on 6th Feb)~~](./problems/buy_sell_stock.py)
 - [~~Valid Anagram - (Completed on 24th Jan)~~](./problems/is_anagram.py)
 - [~~Valid Parentheses - (Completed on 25th Jan)~~](./problems/is_valid_parantheses.py)
-- [~~Product of Array Except Self - (Completed on 6th Feb)~~](./problems/product_except_self.py)
+- [~~Product of Array Except Self - (Completed on 7th Feb)~~](./problems/product_except_self.py)
 - Maximum Subarray
 - [~~3Sum - (Completed on 23th Jan)~~](./problems/three_sums.py)
 - Merge Intervals
@@ -16,7 +16,7 @@ Following the structure outlined in the ["Tech Interview Handbook"](https://tech
 - Maximum Product Subarray
 - Search in Rotated Sorted Array
 
-## Week 2 - Data Structures - 30 Jan
+## Week 2 - Data Structures
 - Reverse a Linked List
 - Detect Cycle in a Linked List
 - Container With Most Water
@@ -29,7 +29,7 @@ Following the structure outlined in the ["Tech Interview Handbook"](https://tech
 - Palindromic Substrings
 - Pacific Atlantic Water Flow
 
-## Week 3 - Non Linear Data Structures - 6 Jan
+## Week 3 - Non Linear Data Structures
 - Validate Binary Search Tree
 - Invert/Flip Binary Tree
 - Non-overlapping Intervals
@@ -44,7 +44,7 @@ Following the structure outlined in the ["Tech Interview Handbook"](https://tech
 - Binary Tree Level Order Traversal
 - Encode and Decode Strings (LeetCode Premium)
 
-## Week 4 - More Data Structres - 13 Feb
+## Week 4 - More Data Structres
 - Add and Search Word
 - Implement Trie (Prefix Tree)
 - Subtree of Another Tree
@@ -61,7 +61,7 @@ Following the structure outlined in the ["Tech Interview Handbook"](https://tech
 - Graph Valid Tree (LeetCode Premium)
 - Number of Connected Components in an Undirected Graph (LeetCode Premium)
 
-## Week 5 - Dynamic Programming - 20 Feb
+## Week 5 - Dynamic Programming
 - Climbing Stairs
 - Coin Change
 - Longest Increasing Subsequence
