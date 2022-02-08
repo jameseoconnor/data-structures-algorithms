@@ -8,7 +8,7 @@ Following the structure outlined in the ["Tech Interview Handbook"](https://tech
 - [~~Best Time to Buy and Sell Stock - (Completed on 6th Feb)~~](./problems/buy_sell_stock.py)
 - [~~Valid Anagram - (Completed on 24th Jan)~~](./problems/is_anagram.py)
 - [~~Valid Parentheses - (Completed on 25th Jan)~~](./problems/is_valid_parantheses.py)
-- Product of Array Except Self
+- [~~Product of Array Except Self - (Completed on 6th Feb)~~](./problems/product_except_self.py)
 - Maximum Subarray
 - [~~3Sum - (Completed on 23th Jan)~~](./problems/three_sums.py)
 - Merge Intervals
